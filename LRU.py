@@ -88,4 +88,5 @@ for i in range(len(marks)):
     cache_miss.append(0)
     lru_counter.append(0)
 
+    
 lruImplementation(cache) 
